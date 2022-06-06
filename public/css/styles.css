@@ -1,0 +1,117 @@
+body{
+    background-color:#ebebeb;
+    font-family: 'Roboto','Arial';
+    font-size:12px
+}
+#logo{
+    margin-left: 25px;
+    max-width: 50%;
+    max-height: 50%;
+    margin-top: 15px;
+}
+.enlaces{
+    text-decoration: none;
+}
+
+.fa-regular{
+    color: black;
+}
+.fa-solid {
+    color:black
+}
+
+.fa-solid{
+    color: black;
+}
+
+header{
+    background-color:#EAC926;
+}
+
+#negritas{
+    font-weight:bold;
+}
+
+footer{
+    background-color: white;
+}
+#menu{
+    font-size: 20px;
+    text-align: center;
+    background-color: #1259c3;
+    color: white;
+    cursor: pointer;
+    padding: 8px;
+    border-radius:5px;
+    margin-bottom : 25px;
+}
+
+#alin{
+    text-align: center;
+}
+
+.img{
+    max-width: 85%;
+    max-height: 85%;
+}
+
+#titulares{
+    font-size:24px;
+}
+
+#Precios{
+    font-size:18px
+}
+
+#Des{
+    font-size:16px
+}
+
+#br_busqueda{
+    background-color:white;
+    text-align:center; 
+    border:solid 1px black;
+    margin: 1px;
+    box-sizing: border-box;
+    padding: 1px;
+    width: 50%;
+    margin-bottom: 1px;
+    margin-left: 25px;
+    padding-left: 12px;
+}
+#lupa{
+    background-color: white;
+    padding:3px;
+    border-radius:5px;
+    cursor: pointer;
+    border:solid 1px black;
+    margin-right: 1000px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    
+}
+#compras_cuotas{
+    text-align: center;
+}
+
+.fa-regular{
+    color: black;
+}
+
+.fa-solid {
+    color:black;
+    text-align:center;
+}
+.centro{
+    text-align: center;
+}
+
+#footer{
+    color:#1259c3
+}
+
+
+
+
+
+
